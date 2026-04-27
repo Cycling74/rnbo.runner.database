@@ -1,0 +1,3 @@
+[submodule "repos/video-on-move"]
+	path = repos/video-on-move
+	url = git@github.com:starakaj/video-on-move.git
