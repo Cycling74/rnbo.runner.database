@@ -2,7 +2,7 @@
 
 This repository contains user submitted projects for the [RNBO Runner](https://rnbo.cycling74.com/learn/raspberry-pi-target-overview). This includes both projects that are built specifically for [Ableton Move](https://rnbo.cycling74.com/learn/move-intro-and-setup), and those that are for the Raspberry Pi (or another platform that can load the RNBO Runner).
 
-We don't yet have a friendly web-based interface for browsing and downloading projects. In the meantime, you can use this repository to share your work, and to check out what other people have built. When we do eventually build a browsing interface, this repository will be the dataset that we draw from.
+We don't have a friendly web-based interface for browsing and downloading projects. However, you can use this repository to share your work, and to check out what other people have built. If we do eventually build a browsing interface, this repository will be the dataset that we draw from.
 
 ## Requirements
 
