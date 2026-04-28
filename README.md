@@ -20,7 +20,7 @@ You can also include an _icon.png_ file, a PNG graphic file (500x500px) for disp
 
 ### Exported Graphs
 
-You should put any exported graphs (`.rnbopack` files) into the project's `misc` folder.
+You should put any exported graphs (`.rnbopack` files) into the project's `misc` folder. You can read more about importing and exporting RNBO graphs in the [.rnbopack documentation](https://rnbo.cycling74.com/learn/importing-and-exporting-packages#package-export) here.
 
 ### License
 
